@@ -85,8 +85,7 @@
 
 </div>
 
----
-https://claude.ai/artifact/Eh3LWMMWk2Xo2W2JnyPLWW
+
 ## 📫 Let's Connect
 
 <div align="center">
